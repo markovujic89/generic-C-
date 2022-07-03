@@ -1,0 +1,57 @@
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.exe
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.deps.json
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.runtimeconfig.json
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.runtimeconfig.dev.json
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\ref\CoffeeAppGeneric.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.pdb
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.AssemblyInfoInputs.cache
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.AssemblyInfo.cs
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.csproj.CoreCompileInputs.cache
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\ref\CoffeeAppGeneric.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.pdb
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.genruntimeconfig.cache
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Learning\Generic C#\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.csproj.CopyComplete
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\ref\CoffeeAppGeneric.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.pdb
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.exe
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.deps.json
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.runtimeconfig.json
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.runtimeconfig.dev.json
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\ref\CoffeeAppGeneric.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\CoffeeAppGeneric.pdb
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.csproj.AssemblyReference.cache
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.AssemblyInfoInputs.cache
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.AssemblyInfo.cs
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.csproj.CoreCompileInputs.cache
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.csproj.CopyComplete
+D:\Programing\CoffeAppGeneric\CoffeAppGeneric\obj\Debug\net5.0\CoffeeAppGeneric.genruntimeconfig.cache
